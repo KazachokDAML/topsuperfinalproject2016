@@ -2,7 +2,23 @@ body{
     background-image: url("../супер торрент нет/images/abstract-black-background-with-stars-for-your-design-vector-starry-night-sky-space-backdrop_158941-101\ 1.png");
 }
 header img{
-    display: flex;
-    align-items: center;
-    justify-content: center;
+position: absolute;
+width: 1019px;
+height: 150px;
+left: 210px;
+top: 0px;
+}
+.v2{
+    position: absolute;
+width: 1019px;
+height: 1000px;
+left: 210px;
+top: 145px;
+
+background: #919D86;
+}
+.bx-wrapper {
+    width: 775px;
+    margin-top: 180px;
+    margin-left: 320px;
 }
